@@ -1,4 +1,7 @@
 ### Hi there 👋
+I'm Andrea, a Freont-End web developer.
+I have a 3 experience on WordPress Development.
+=====
 
 <!--
 **Andrea-vicari/Andrea-vicari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
