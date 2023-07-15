@@ -3,6 +3,7 @@
 #### Below the main sections of this portfolio
 -  [FreeCodeCamp_Javascript](https://github.com/Andrea-vicari/FreeCodeCamp_Javascript)
 -  [CodeWars Katas](https://github.com/Andrea-vicari/Codewars-Katas)
+-  [Front End Projects](https://github.com/Andrea-vicari/Frontend_Projects)
 #### 🔭 I’m looking to collaborate on some projects:
 - Front-end projects
 - Wordpress websites
