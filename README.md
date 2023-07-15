@@ -1,20 +1,7 @@
-### 👋 Nice to meet You!! 👋 #####
-### I'm Andrea, a Freont-End web developer.
-### I have a 3 experience on WordPress Development.
-In this 
-=====
-
-<!--
-**Andrea-vicari/Andrea-vicari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## :wave: Nice to meet you
+#### I'm Andrea, a Front-End web developer with an intermediate knowledge of Javascript
+#### 🔭 I’m looking to collaborate on some projects:
+- Front-end projects
+- Wordpress websites
+#### ✨ I’m currently attending a React.js course:
+#### Below the main sections of this portfolio
