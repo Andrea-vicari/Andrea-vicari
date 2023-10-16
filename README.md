@@ -4,6 +4,6 @@
 I'm Andrea, a Front-End web developer with an intermediate knowledge of Javascript as well as 3 years of experience as a Wordpress Developer.<br>
 <br>
 ## Main section of my Portfolio
-- [World Food](http://anvicdev.byethost7.com/food_demo/): A website working with API and JSON
-- Layout using CSS flexbox + MediaQueries + Javascript
-- Tablet & mobile friendly
+- [World Food](): A website working with API and JSON
+- [Resume Site]() My personal website, mainly coded with FlexBox and Js.
+- [CAsh Calculator]() A single-page applications using Js ands Boostrap
