@@ -1,4 +1,4 @@
-###
+##
 :wave: Nice to meet you<br>
 ================
 I'm Andrea, a Front-End web developer with an intermediate knowledge of Javascript as well as 3 years of experience as a Wordpress Developer.<br>
