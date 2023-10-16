@@ -3,6 +3,7 @@
 ================
 I'm Andrea, a Front-End web developer with an intermediate knowledge of Javascript as well as 3 years of experience as a Wordpress Developer.<br>
 <br>
+:wave: Nice to meet you
 ## Main section of my Portfolio
 - [Cash Calculator]() A single-page application using Js and Bootstrap
 - [World Recipe](https://github.com/Andrea-vicari/WorldRecipe): A website working with API and JSON
