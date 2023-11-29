@@ -3,6 +3,9 @@ Nice to meet you<br>
 ================
 I'm Andrea Vicari, a Front-End web developer based in Milan, Italy.
 
+### Skills
+
+
 ## Projects
 
 * [Random Quote generator](https://github.com/Andrea-vicari/Random_quote_generator_API)
