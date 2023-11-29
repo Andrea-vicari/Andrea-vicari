@@ -1,7 +1,7 @@
 ####
 Nice to meet you<br>
 ================
-I'm Andrea, a Front-End web developer with an intermediate knowledge of Javascript as well as 3 years of experience as a Wordpress Developer
+I'm Andrea Vicari, a Front-End web developer based in Milan, Italy.
 
 ## Projects
 
