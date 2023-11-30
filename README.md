@@ -8,7 +8,7 @@ I'm currently learning React.
 ⚡ I'm looking forward to be part of some interesting projects
 
 ### Skills
-<img src="https://github.com/Andrea-vicari/Andrea-vicari/blob/main/HTML_logo.png" style="width:60px"> <img src="https://github.com/Andrea-vicari/Andrea-vicari/blob/main/Bootstrap_logo.png" style="width:60px"> <img src="https://github.com/Andrea-vicari/Andrea-vicari/blob/main/WordPress_logo.png" style="width:60px"> <img src="https://github.com/Andrea-vicari/Andrea-vicari/blob/main/Javscaript_logo.png" style="width:60px"> 
+<img src="https://github.com/Andrea-vicari/Andrea-vicari/blob/main/HTML_logo.png" style="width:60px"> <img src="https://github.com/Andrea-vicari/Andrea-vicari/blob/main/Bootstrap_logo.png" style="width:60px"> <img src="https://github.com/Andrea-vicari/Andrea-vicari/blob/main/WordPress_logo.png" style="width:60px"> <img src="https://github.com/Andrea-vicari/Andrea-vicari/blob/main/JS_logo.png" style="width:60px"> <img src="https://github.com/Andrea-vicari/Andrea-vicari/blob/main/NODE_logo.png" style="width:60px"> <img src="https://github.com/Andrea-vicari/Andrea-vicari/blob/main/React_logo.png" style="width:60px">  
 
 
 
