@@ -6,9 +6,11 @@ I have 4 years experience in Front-end as well as A deep knowledge of CMS WordPr
 
 ⚡ I'm looking forward to be part of some interesting projects
 
-### Available:
-<a href="mailto:andrea.vicari77@gmail.com">
+### Contacts
+<a href="mailto:andrea.vicari77@gmail.com" target="_blank">
   <img src="https://github.com/Andrea-vicari/Andrea-vicari/blob/main/Gmail_logo.png" style="width:35px" alt="Click me!" />
+</a> <a href="https://www.linkedin.com/in/andreavicaridev/" target="_blank">
+  <img src="https://github.com/Andrea-vicari/Andrea-vicari/blob/main/Linkedin_Blue_logo.png" style="width:35px" alt="Click me!" />
 </a>
 
 ### Skills
