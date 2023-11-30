@@ -20,7 +20,7 @@ I have 4 years experience in Front-end as well as A deep knowledge of CMS WordPr
 
 ## Projects
 
-* [Random Quote generator](https://github.com/Andrea-vicari/Random_quote_generator_API)
+* [Random Quote generator](https://github.com/Andrea-vicari/Random-Quote-Generator)
    A Random Quote generator built using Bootstrap5, JS and free API.
 * [Food Recipe Website](https://github.com/Andrea-vicari/WorldRecipe)
    Website built with Css FlexBox, Javascript, free API TheMealDB
