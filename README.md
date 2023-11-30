@@ -1,11 +1,13 @@
-####
+###
 Nice to meet you<br>
 ================
 I'm Andrea Vicari, Front-End web developer based in Milan, Italy.
 I have 4 years experience in Front-end as well as A deep knowledge of CMS WordPress.
-I'm currently learning React.
 
 ⚡ I'm looking forward to be part of some interesting projects
+
+### Available:
+<img src="https://github.com/Andrea-vicari/Andrea-vicari/blob/main/Mail_logo.png" style="width:60px"> <img src="https://github.com/Andrea-vicari/Andrea-vicari/blob/main/Bootstrap_logo.png" style="width:60px">
 
 ### Skills
 <img src="https://github.com/Andrea-vicari/Andrea-vicari/blob/main/HTML_logo.png" style="width:60px"> <img src="https://github.com/Andrea-vicari/Andrea-vicari/blob/main/Bootstrap_logo.png" style="width:60px"> <img src="https://github.com/Andrea-vicari/Andrea-vicari/blob/main/WordPress_logo.png" style="width:60px"> <img src="https://github.com/Andrea-vicari/Andrea-vicari/blob/main/JS_logo.png" style="width:60px"> <img src="https://github.com/Andrea-vicari/Andrea-vicari/blob/main/NODE_logo.png" style="width:60px"> <img src="https://github.com/Andrea-vicari/Andrea-vicari/blob/main/React_logo.png" style="width:60px">  
