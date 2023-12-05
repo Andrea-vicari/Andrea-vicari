@@ -25,5 +25,5 @@ I have 4 years experience in Front-end as well as A deep knowledge of CMS WordPr
    A Random Quote generator built using Bootstrap5, JS and free API.
 * [Food Recipe Website](https://github.com/Andrea-vicari/WorldRecipe)
    Website built with Css FlexBox, Javascript, free API TheMealDB
-* [Cash Calculator](https://github.com/Andrea-vicari/Cash_register)
+* [Cash Calculator](https://github.com/Andrea-vicari/Cash_Calculator)
    Interface built with Bootstrap & Javascript
