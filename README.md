@@ -23,7 +23,7 @@ I specialize in using React, Bootstrap and i have 4 years experience in Front-en
 
 * [Random Quote generator](https://github.com/Andrea-vicari/Random-Quote-Generator)
    A Random Quote generator built using Bootstrap5, JS and free API.
-* [React Portfolio](https://github.com/Andrea-vicari/resume-react/)
+* [React Portfolio](https://github.com/Andrea-vicari/cv-react-vite)
    Portfolio Website built with React and Boostrap5
 * [Cash Calculator](https://github.com/Andrea-vicari/Cash_Calculator)
    Interface built with Bootstrap & Javascript
