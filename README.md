@@ -15,7 +15,7 @@ I specialize in using React, Bootstrap and i have 4 years experience in Front-en
 </a>
 
 ### Skills
-<img src="https://github.com/Andrea-vicari/Andrea-vicari/blob/main/HTML_logo.png" style="width:60px"> <img src="https://github.com/Andrea-vicari/Andrea-vicari/blob/main/Bootstrap_logo.png" style="width:60px"> <img src="https://github.com/Andrea-vicari/Andrea-vicari/blob/main/WordPress_logo.png" style="width:60px"> <img src="https://github.com/Andrea-vicari/Andrea-vicari/blob/main/JS_logo.png" style="width:60px"> <img src="https://github.com/Andrea-vicari/Andrea-vicari/blob/main/NODE_logo.png" style="width:60px"> <img src="https://github.com/Andrea-vicari/Andrea-vicari/blob/main/React_logo.png" style="width:60px">  
+<img src="https://github.com/Andrea-vicari/Andrea-vicari/blob/main/HTML_logo.png" style="width:40px"> <img src="https://github.com/Andrea-vicari/Andrea-vicari/blob/main/Bootstrap_logo.png" style="width:40px"> <img src="https://github.com/Andrea-vicari/Andrea-vicari/blob/main/WordPress_logo.png" style="width:40px"> <img src="https://github.com/Andrea-vicari/Andrea-vicari/blob/main/JS_logo.png" style="width:40px"> <img src="https://github.com/Andrea-vicari/Andrea-vicari/blob/main/NODE_logo.png" style="width:40px"> <img src="https://github.com/Andrea-vicari/Andrea-vicari/blob/main/React_logo.png" style="width:40px">  
 
 
 
