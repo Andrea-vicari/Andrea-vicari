@@ -17,9 +17,9 @@ I specialize in using React, Bootstrap and i have 4 years experience in Front-en
 ### Skills
 <img src="https://github.com/Andrea-vicari/Andrea-vicari/blob/main/HTML_logo.png" style="width:40px"> <img src="https://github.com/Andrea-vicari/Andrea-vicari/blob/main/Bootstrap_logo.png" style="width:40px"> <img src="https://github.com/Andrea-vicari/Andrea-vicari/blob/main/WordPress_logo.png" style="width:40px"> <img src="https://github.com/Andrea-vicari/Andrea-vicari/blob/main/JS_logo.png" style="width:40px"> <img src="https://github.com/Andrea-vicari/Andrea-vicari/blob/main/NODE_logo.png" style="width:40px"> <img src="https://github.com/Andrea-vicari/Andrea-vicari/blob/main/React_logo.png" style="width:40px">  
 
-
-
-## Projects
+# Projects
+* [Drum PAD](https://github.com/Andrea-vicari/drum-machine-24)
+   A Drum Pad built with React, Bootstrap, Axios and JSON Server
 * [World Food](https://github.com/Andrea-vicari/food-rout)
    A Single Page Application built with React and API
 * [React Portfolio](https://github.com/Andrea-vicari/cv-react-vite)
