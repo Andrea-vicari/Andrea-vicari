@@ -17,10 +17,10 @@ I specialize in using React, Bootstrap and i have 4 years experience in Front-en
 ### Skills
 <img src="https://github.com/Andrea-vicari/Andrea-vicari/blob/main/HTML_logo.png" style="width:40px"> <img src="https://github.com/Andrea-vicari/Andrea-vicari/blob/main/Bootstrap_logo.png" style="width:40px"> <img src="https://github.com/Andrea-vicari/Andrea-vicari/blob/main/WordPress_logo.png" style="width:40px"> <img src="https://github.com/Andrea-vicari/Andrea-vicari/blob/main/JS_logo.png" style="width:40px"> <img src="https://github.com/Andrea-vicari/Andrea-vicari/blob/main/NODE_logo.png" style="width:40px"> <img src="https://github.com/Andrea-vicari/Andrea-vicari/blob/main/React_logo.png" style="width:40px">  
 
-### REST API DEPLOYMENTS Projects
-* [MERN deploying](https://github.com/Andrea-vicari/mern-stack)
+### REST API Deploment
+* [MERN dep API VERCEL](https://github.com/Andrea-vicari/mern-stack)
    Deploying a Node.js server on VERCEL using Express and Mongoose for the DB connection with MongoDB
-* [MERN deploying](https://github.com/Andrea-vicari/Deploy-Mern-API-Render)
+* [MERN dep API RENDER](https://github.com/Andrea-vicari/Deploy-Mern-API-Render)
    Deploying a Node.js server on RENDER using Express and Mongoose for the DB connection with MongoDB
 ### REACT Projects
 * [World Food](https://github.com/Andrea-vicari/food-rout)
