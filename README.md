@@ -3,7 +3,7 @@ Nice to meet you<br>
 ================
 #####
 I'm Andrea Vicari, Front-End web developer based in Milan, Italy.
-I specialize in using React, Bootstrap and i have 4 years experience in Front-end as well as A deep knowledge of CMS WordPress.
+I specialize in using React, Bootstrap and i have 4 years experience in Front-end as well as a deep knowledge of CMS WordPress.
 ####
 ⚡ I'm looking forward to be part of some interesting projects
 
