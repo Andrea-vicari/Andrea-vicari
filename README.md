@@ -18,8 +18,8 @@ I specialize in using React, Bootstrap and i have 4 years experience in Front-en
 <img src="https://github.com/Andrea-vicari/Andrea-vicari/blob/main/HTML_logo.png" style="width:40px"> <img src="https://github.com/Andrea-vicari/Andrea-vicari/blob/main/Bootstrap_logo.png" style="width:40px"> <img src="https://github.com/Andrea-vicari/Andrea-vicari/blob/main/WordPress_logo.png" style="width:40px"> <img src="https://github.com/Andrea-vicari/Andrea-vicari/blob/main/JS_logo.png" style="width:40px"> <img src="https://github.com/Andrea-vicari/Andrea-vicari/blob/main/NODE_logo.png" style="width:40px"> <img src="https://github.com/Andrea-vicari/Andrea-vicari/blob/main/React_logo.png" style="width:40px">  
 
 ## 🚧 FullStack M.E.R.N Deployment with MONGO DB
-* [MERN dep API VERCEL](https://github.com/Andrea-vicari/Deploy-Mern-API-Render)
-   Deploying a MERN application With Node.js server on VERCEL using Express and Mongoose for the DB connection with MongoDB
+* [FITNESS CENTER]()
+   MERN application for a Fitness Center built With Node.js, Express, MongoDB, React
 
 ### REACT Projects
 * [World Food](https://github.com/Andrea-vicari/food-rout)
