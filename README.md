@@ -21,7 +21,7 @@ I specialize in using React, Bootstrap and i have 4 years experience in Front-en
 * [FITNESS CENTER](https://github.com/Andrea-vicari/Fitness-Center)
    MERN application for a Fitness Center built With Node.js, Express, MongoDB, React
 * [DRUM MACHINE](https://github.com/Andrea-vicari/Fitness-Center)
-   A Drum Machne built With Node.js, Express, MongoDB, React with customizable keyboard
+   A Drum Machine built With Node.js, Express, MongoDB, React with customizable keyboard
 
 ### REACT Projects
 * [World Food](https://github.com/Andrea-vicari/food-rout)
