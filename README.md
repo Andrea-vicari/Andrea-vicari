@@ -23,12 +23,12 @@ I specialize in using React, Bootstrap and i have 4 years experience in Front-en
 * [DRUM MACHINE](https://github.com/Andrea-vicari/DrumMachine-MERN)
    A Drum Machine built With Node.js, Express, MongoDB, React with customizable keyboard
 
-### REACT Projects
+# REACT Projects
 * [World Food](https://github.com/Andrea-vicari/food-rout)
    A Single Page Application built with React and API
 * [React Portfolio](https://github.com/Andrea-vicari/cv-react-vite)
    Portfolio Website built with React and Boostrap5
-### OLD PROJECTS JS
+#  OLD PROJECTS JS
 * [Cash Calculator](https://github.com/Andrea-vicari/Cash_Calculator)
    Interface built with Bootstrap & Javascript
 * [Random Quote generator](https://github.com/Andrea-vicari/Random-Quote-Generator)
