@@ -18,6 +18,7 @@ I specialize in using React, Bootstrap and i have 4 years experience in Front-en
 <img src="https://github.com/Andrea-vicari/Andrea-vicari/blob/main/HTML_logo.png" style="width:40px"> <img src="https://github.com/Andrea-vicari/Andrea-vicari/blob/main/Bootstrap_logo.png" style="width:40px"> <img src="https://github.com/Andrea-vicari/Andrea-vicari/blob/main/WordPress_logo.png" style="width:40px"> <img src="https://github.com/Andrea-vicari/Andrea-vicari/blob/main/JS_logo.png" style="width:40px"> <img src="https://github.com/Andrea-vicari/Andrea-vicari/blob/main/NODE_logo.png" style="width:40px"> <img src="https://github.com/Andrea-vicari/Andrea-vicari/blob/main/React_logo.png" style="width:40px">  
 
 # FullStack Projects
+<img src="https://github.com/Andrea-vicari/Andrea-vicari/blob/main/HTML_logo.png">
 * [FITNESS CENTER](https://github.com/Andrea-vicari/Fitness-Center)
    MERN application for a Fitness Center built With Node.js, Express, MongoDB, React
 * [DRUM MACHINE](https://github.com/Andrea-vicari/DrumMachine-MERN)
