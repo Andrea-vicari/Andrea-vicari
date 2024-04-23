@@ -1,37 +1,16 @@
-###
-Nice to meet you<br>
-================
-#####
-I'm Andrea Vicari, Front-End web developer based in Milan, Italy.
-I specialize in using React, Bootstrap and i have 4 years experience in Front-end as well as a deep knowledge of CMS WordPress.
-####
-⚡ I'm looking forward to be part of some interesting projects
+![Banner Image](https://github.com/Andrea-vicari/Andrea-vicari/blob/main/GitHub_Banner.jpg)
 
-### Contacts
-<a href="mailto:andrea.vicari77@gmail.com" target="_blank">
-  <img src="https://github.com/Andrea-vicari/Andrea-vicari/blob/main/Mail_logo.png" style="width:60px" alt="Click me!" />
-</a> <a href="https://www.linkedin.com/in/andreavicaridev/" target="_blank">
-  <img src="https://github.com/Andrea-vicari/Andrea-vicari/blob/main/Likedin_logo.png" style="width:60px" alt="Click me!" />
-</a>
 
-### Tools
-<img src="https://github.com/Andrea-vicari/Andrea-vicari/blob/main/vscode.svg" style="width:40px"> <img src="https://github.com/Andrea-vicari/Andrea-vicari/blob/main/xammp_logo.png" style="width:40px"> <img src="https://github.com/Andrea-vicari/Andrea-vicari/blob/main/vite.svg" style="width:40px"> <img src="https://github.com/Andrea-vicari/Andrea-vicari/blob/main/vercel_logo.svg" style="width:40px"> <img src="https://github.com/Andrea-vicari/Andrea-vicari/blob/main/logo-postman.svg" style="width:40px"> <img src="https://github.com/Andrea-vicari/Andrea-vicari/blob/main/gimp.svg" style="width:40px">
+## Hi there! 👋 I'm Andrea, Wordpress & React Developer.
 
-### Skills
-<img src="https://github.com/Andrea-vicari/Andrea-vicari/blob/main/HTML_logo.png" style="width:40px"> <img src="https://github.com/Andrea-vicari/Andrea-vicari/blob/main/Bootstrap_logo.png" style="width:40px"> <img src="https://github.com/Andrea-vicari/Andrea-vicari/blob/main/WordPress_logo.png" style="width:40px"> <img src="https://github.com/Andrea-vicari/Andrea-vicari/blob/main/JS_logo.png" style="width:40px"> <img src="https://github.com/Andrea-vicari/Andrea-vicari/blob/main/NODE_logo.png" style="width:40px"> <img src="https://github.com/Andrea-vicari/Andrea-vicari/blob/main/React_logo.png" style="width:40px">
+🚀 I'm Andrea, a front-end web developer with a passion for creating user-friendly websites. With over 4 years of experience in the field, I possess a strong foundation in HTML, CSS, and JavaScript. I specialize in using React, Bootstrap, and other cutting-edge technologies
 
-# FullStack Projects
-<img src="https://github.com/Andrea-vicari/Andrea-vicari/blob/main/MernStack.png">
+🛠️ My tech toolkit includes React, Bootstrap5, NodeJS, Redux/RTK Toolkit. Lately i took the chanche to hardly work on my back-end skills, learning how to set up Full Stack projects, mainly using Node.js and Mongo DB.
 
-* [FITNESS CENTER](https://github.com/Andrea-vicari/Fitness-Center)
-   MERN application for a Fitness Center built With Node.js, Express, MongoDB, React
-* [DRUM MACHINE](https://github.com/Andrea-vicari/DrumMachine-MERN)
-   DrumPAD built With Node.js, Express, MongoDB, React with customizable keyboard
+✨ I'm currently working on some free-lance projects as well as looking for some new opportunities.
 
-# REACT Projects
-* [World Food](https://github.com/Andrea-vicari/food-rout)
-   A Single Page Application built with React and API
-* [React Portfolio](https://github.com/Andrea-vicari/cv-react-vite)
-   Portfolio Website built with React and Boostrap5
+
+
+Let's connect and build the future together! 🌟
 
 
