@@ -7,10 +7,13 @@
 
 🛠️ My tech toolkit includes React, Bootstrap5, NodeJS, Redux/RTK Toolkit. Lately i took the chanche to hardly work on my back-end skills, learning how to set up Full Stack projects, mainly using Node.js and Mongo DB.
 
-✨ I'm currently working on some free-lance projects as well as looking for some new opportunities.
+🔍 🔍 I'm currently working on some free-lance projects as well as looking for some new opportunities.
 
 
 
 Let's connect and build the future together! 🌟
+
+
+
 
 
