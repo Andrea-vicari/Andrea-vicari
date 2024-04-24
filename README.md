@@ -9,7 +9,7 @@
 
 🔍 I'm currently looking for some new opportunities as well as working on some freelance projects.
 
-Let's connect and build the future together! 🌟
+#### Let's connect and build the future together! 🌟
 
 ### Contacts
 [![](https://github.com/Andrea-vicari/Andrea-vicari/blob/main/mail_150.png)](mailto:andrea.vicari77@gmail.com)
@@ -29,10 +29,10 @@ Let's connect and build the future together! 🌟
 ### Languages
 ![JavaScript](https://github.com/Andrea-vicari/Andrea-vicari/blob/main/js_150.png)
 
+### ReactJS Projects
+[![](https://github.com/Andrea-vicari/Andrea-vicari/blob/main/omsel_150.png)](https://omsel-portfolio.vercel.app/)
+[![](https://github.com/Andrea-vicari/Andrea-vicari/blob/main/ascar_150.png)](https://ascar.onrender.com/)
+[![](https://github.com/Andrea-vicari/Andrea-vicari/blob/main/worldfood_150.png)](https://food-rout.vercel.app/)
 
 ### Full Stack Projects
-
-
-### ReactJS Projects
-
-[![](https://github.com/Andrea-vicari/Andrea-vicari/blob/main/omsel_150.png)](https://omsel-portfolio.vercel.app/)
+[![](https://github.com/Andrea-vicari/Andrea-vicari/blob/main/mern-fitness_150.png)](https://fitness-center-client.vercel.app/)
