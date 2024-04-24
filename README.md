@@ -32,7 +32,7 @@
 ### ReactJS Projects
 [![](https://github.com/Andrea-vicari/Andrea-vicari/blob/main/omsel_150.png)](https://omsel-portfolio.vercel.app/)
 [![](https://github.com/Andrea-vicari/Andrea-vicari/blob/main/ascar_150.png)](https://ascar.onrender.com/)
-[![](https://github.com/Andrea-vicari/Andrea-vicari/blob/main/worldfood_150.png)](https://food-rout.vercel.app/)
+[![](https://github.com/Andrea-vicari/Andrea-vicari/blob/main/wordlfood_150.png)](https://food-rout.vercel.app/)
 
 ### Full Stack Projects
 [![](https://github.com/Andrea-vicari/Andrea-vicari/blob/main/mern-fitness_150.png)](https://fitness-center-client.vercel.app/)
