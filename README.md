@@ -11,10 +11,28 @@
 
 Let's connect and build the future together! 🌟
 
+### Contacts
+[![](https://github.com/Andrea-vicari/Andrea-vicari/blob/main/mail_150.png)](mailto:andrea.vicari77@gmail.com)
+[![](https://github.com/Andrea-vicari/Andrea-vicari/blob/main/website_150.png)](https://cv-react-vite-phi.vercel.app/)
+[![](https://github.com/Andrea-vicari/Andrea-vicari/blob/main/linkedin_150.png)](https://www.linkedin.com/in/andreavicaridev/)
+
+### Technologies
+![Node.js](https://github.com/Andrea-vicari/Andrea-vicari/blob/main/node_150.png)
+![React](https://github.com/Andrea-vicari/Andrea-vicari/blob/main/react_150.png)
+![Bootstrap5](https://github.com/Andrea-vicari/Andrea-vicari/blob/main/bootstrap_150.png)
+![WordPress](https://github.com/Andrea-vicari/Andrea-vicari/blob/main/wordpress_150.png)
+
+### Database
+![MySql](https://github.com/Andrea-vicari/Andrea-vicari/blob/main/mysql_150.png)
+![MongoDB](https://github.com/Andrea-vicari/Andrea-vicari/blob/main/mongoDB_150.png)
+
+### Languages
+![JavaScript](https://github.com/Andrea-vicari/Andrea-vicari/blob/main/js_150.png)
 
 
+### Full Stack Projects
 
 
+### ReactJS Projects
 
-
-
+[![](https://github.com/Andrea-vicari/Andrea-vicari/blob/main/omsel_150.png)](https://omsel-portfolio.vercel.app/)
