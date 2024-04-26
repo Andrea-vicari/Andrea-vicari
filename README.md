@@ -35,4 +35,4 @@
 [![](https://github.com/Andrea-vicari/Andrea-vicari/blob/main/wordlfood_150.png)](https://food-rout.vercel.app/)
 
 ### Full Stack Projects
-[![](https://github.com/Andrea-vicari/Andrea-vicari/blob/main/mern-fitness_150.png)](https://fitness-center-nu.vercel.app/)
+[![](https://github.com/Andrea-vicari/Andrea-vicari/blob/main/mern-fitness_150.png)](https://fitness-center-j7uo.vercel.app/)
