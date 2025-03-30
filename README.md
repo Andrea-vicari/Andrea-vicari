@@ -36,5 +36,7 @@
 
 ### Full Stack Projects
 [![](https://github.com/Andrea-vicari/Andrea-vicari/blob/main/mern-fitness_150.png)](https://github.com/Andrea-vicari/pulsefit)
+[![](https://github.com/Andrea-vicari/Andrea-vicari/blob/main/autop_150.png)](https://github.com/Andrea-vicari/pulsefit)
+
 
 
