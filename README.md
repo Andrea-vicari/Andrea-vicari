@@ -35,7 +35,7 @@
 [![](https://github.com/Andrea-vicari/Andrea-vicari/blob/main/wordlfood_150.png)](https://food-rout.vercel.app/)
 
 ### Full Stack Projects
-[![](https://github.com/Andrea-vicari/Andrea-vicari/blob/main/mern-fitness_150.png)](https://github.com/Andrea-vicari/pulsefit)
+[![](https://github.com/Andrea-vicari/Andrea-vicari/blob/main/mern-fitness_150.png)](https://github.com/Andrea-vicari/tigerFitness)
 [![](https://github.com/Andrea-vicari/Andrea-vicari/blob/main/autop_150.png)](https://github.com/Andrea-vicari/autoparts)
 
 
